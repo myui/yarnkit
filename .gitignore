@@ -1,0 +1,12 @@
+!.gitkeep
+/.fatjar
+/build
+target
+logs
+.git
+.settings
+*.swp
+.idea
+*.iml
+.DS_Store
+*~
